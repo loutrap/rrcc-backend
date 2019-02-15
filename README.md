@@ -1,3 +1,7 @@
+# Project Background
+
+This application was the final project for the Senior Development I&II courses at RIT. The developers who contributed to this code base are Ryan Bower, Louis Trapani and Rana Vemireddy.
+
 # rcc-be
 Backend for the Rochester Convention Center application.
 
